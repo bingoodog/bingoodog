@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on: quantitative remote sensing and water quality parameter retrieval.
-- 🌱 I’m currently learning: CGAN and pix2pix.
-- 💬 Ask me about: remote sensing.
+- 🌱 I’m currently learning: CGAN
 <!--
 **bingoodog/bingoodog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
