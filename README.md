@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 - 🔭 I’m currently working on: quantitative remote sensing and water quality parameter retrieval.
 - 🌱 I’m currently learning: CGAN
 <!--
